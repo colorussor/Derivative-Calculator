@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 /**
  * 
- * @author Richard Colorusso
+ * @author Richard Colorusso 
  *
  */
 public class Calculator {
